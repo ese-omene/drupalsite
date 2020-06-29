@@ -1,0 +1,12 @@
+.copyright {
+    background-color: red;
+}
+.main-header {
+    background: url(/Drupal/themes/subtheme/images/portrait.jpg);
+        background-size: auto;
+    color: #fff;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    background-size: cover;
+    position: relative;
+}
